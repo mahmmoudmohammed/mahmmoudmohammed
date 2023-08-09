@@ -19,8 +19,8 @@
     </div>
     <h1>Contribution Activity</h1>
     <div align=center>
-    <img src="https://github-readme-stats.vercel.app/api?username=mahmmoudmohammed&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=7" height="170" /> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmmoudmohammed&layout=compact&title_color=6757e2&text_color=FFFFFF&theme=nightowl" alt="GitHub Most Used Languages"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=mahmmoudmohammed&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=7" height="185" /> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmmoudmohammed&layout=compact&title_color=6757e2&text_color=FFFFFF&theme=nightowl" alt="GitHub Most Used Languages" height="185" />
         <br>
     </div>
     <div align=left>
