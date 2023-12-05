@@ -1,6 +1,9 @@
 <div>
     <div align=center>
-        <img src="./assets/banner.gif" alt="GitHub Background" width=100% height=30%>
+       <div style="width:100%;height:0;padding-bottom:178%;position:relative;">
+           <iframe src="https://giphy.com/embed/7AtHoQ9XWbpwLRxs0t" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+        </div>
+        <p><a href="https://giphy.com/gifs/Trakto--background-mograph-trakto-7AtHoQ9XWbpwLRxs0t">via GIPHY</a></p>
     </div>
     </div>
     <p align="center"><a href="https://github.com/mahmmoudmohammed"><img width="80%" alt="Welcom on Mahmoud Alsharqawi  playground 😀" src="./assets/readme-header.png" /></a>
