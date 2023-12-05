@@ -1,8 +1,6 @@
 <div>
     <div align=center>
-       <div style="width:100%;height:0;padding-bottom:178%;position:relative;">
            <iframe src="https://giphy.com/embed/7AtHoQ9XWbpwLRxs0t" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-        </div>
     </div>
     </div>
     <p align="center"><a href="https://github.com/mahmmoudmohammed"><img width="80%" alt="Welcom on Mahmoud Alsharqawi  playground 😀" src="./assets/readme-header.png" /></a>
