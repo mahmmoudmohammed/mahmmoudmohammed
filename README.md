@@ -1,6 +1,6 @@
 <div>
     <div align=center>
-        <img src="./assets/readme-Background.gif" alt="GitHub Background" width=100% height="400">
+        <img src="./assets/banner.gif" alt="GitHub Background" width=100% height="400">
     </div>
     </div>
     <p align="center"><a href="https://github.com/mahmmoudmohammed"><img width="80%" alt="Welcom on Mahmoud Alsharqawi  playground 😀" src="./assets/readme-header.png" /></a>
