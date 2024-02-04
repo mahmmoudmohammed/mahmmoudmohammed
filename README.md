@@ -1,9 +1,9 @@
 <div>
     <div align=center>
-        <img src="./assets/bannerr.gif" alt="GitHub Background" width="800" height="500">
+        <img src="./assets/MainHeader.png" alt="GitHub Background" width="100%" height="350">
     </div>
     </div>
-    <p align="center"><a href="https://github.com/mahmmoudmohammed"><img width="80%" alt="Welcom on Mahmoud Alsharqawi  playground 😀" src="./assets/MainHeader.png" /></a>
+    <p align="center"><a href="https://github.com/mahmmoudmohammed"><img width="80%" height="100" alt="Welcom on Mahmoud Alsharqawi  playground 😀" src="./assets/readme-header.png" /></a>
     </p>
     <br>
     <div align=center>
