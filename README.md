@@ -27,9 +27,14 @@
         <br>
         <p>
             <strong>
-                I am a highly ambitious, creative, and innovative Computer Science graduate. I have a strong experience in building APIs and complete web applications, that expedite the efficiency and effectiveness of organizational success. Confident communicator, strategic thinker, and the ability to listen carefully to user feedback to determine modifications for optimal client-need. Creative Engineer to design and develop software that is customized to meet a company’s organizational needs.
+                I am a highly ambitious, creative, and innovative backend engineer expert in web development
+using a variety of programming languages and frameworks, including PHP, Laravel, Symfony, and Node.js.
+My experience centers on building APIs and enterprise-level web solutions. I am eager to take on a role where
+I can apply software engineering principles to develop scalable, high-performance software while continuously
+expanding my skills. Confident in my ability to tackle complex software development challenges, I am ready to
+make a significant contribution to my team.
                 <br><br>
-                Well-versed in software tools including PHP, Laravel, java, spring, JavaScript, MySQL, Bootstrap, CSS, and HTML. Skilled at reading and writing code. Great ability to build and optimize database design, schema, and queries. Confident problem-solving skills. Fast and eager learner of new technologies.
+                Well-versed in software tools including PHP, Laravel, Symfony, nodeJS, JavaScript, MySQL, Bootstrap, CSS, and HTML. Skilled at reading and writing code. Great ability to build and optimize database design, schema, and queries. Confident problem-solving skills. Fast and eager learner of new technologies.
             </strong>
         </p>
     </div>
@@ -39,7 +44,7 @@
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white"/>
     <img src="https://img.shields.io/badge/java-%23E76F00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=symfony&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </div>
 
