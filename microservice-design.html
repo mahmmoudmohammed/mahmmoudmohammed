@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/blog.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
+          rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+          integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+          crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>The bizarre tales of UI/UX designer - My Portfolio</title>
+    <link rel="icon" type="image/x-icon" href="assets/backend.png">
+</head>
+
+<body>
+<nav>
+    <div class="nav-logo">My Portfolio</div>
+    <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="index.html#skills-section">Skills</a></li>
+        <li><a href="index.html#projects-section">Projects</a></li>
+        <li><a href="microservice-design.html" class="active">Blog</a></li>
+        <li><a href="index.html#contact-section">Contact</a></li>
+    </ul>
+    <button class="toggle-theme" onclick="toggleThemeAction()">
+        <i class="fa-regular fa-moon"></i>
+    </button>
+    <div class="toggle-menu" onclick="toggleMenuAction()">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+</nav>
+
+<div class="blog-post-container">
+    <a href="index.html#blog-section" class="back-link">
+        <i class="fas fa-arrow-left"></i> Back to Blog
+    </a>
+
+    <article class="blog-post-header">
+        <h1 class="blog-post-title">The bizarre tales of UI/UX designer</h1>
+        <div class="blog-post-meta">
+            <span><i class="far fa-calendar"></i> May 8, 2020</span>
+            <span><i class="far fa-user"></i>Mahmoud Sharqawi</span>
+        </div>
+    </article>
+
+    <div class="blog-post-content">
+        <p>Building microservices with a Clean Architecture design involves using the principles of Clean Architecture within each individual microservice to ensure the core business logic is independent of external concerns like databases, frameworks, or UI.
+            This combination enhances modularity, testability, and scalability. </p>
+
+        <h2>Core Principles</h2>
+
+        <ul>
+            <li><strong>Separation of Concerns:</strong>The architecture divides the system into distinct layers, each with a specific responsibility.</li>
+            <li><strong>Dependency Inversion (The Dependency Rule):</strong>High-level business logic should not depend on low-level implementation details. Both should depend on abstractions (interfaces). Dependencies flow inward towards the core domain.</li>
+            <li><strong>Domain-Centric:</strong>  Each microservice should encapsulate a specific business capability or "Bounded Context," managing its own data and logic, as defined by Domain-Driven Design (DDD) principles.</li>
+            <li><strong>Independent Deployability & Testability:</strong> The clear boundaries ensure that components can be developed, tested, and deployed in isolation. </li>
+        </ul>
+
+        <h2>Internal Structure of a Clean Microservice</h2>
+        <p>Each microservice typically follows the layered structure below:</p>
+
+        <h3>Domain Layer (Core):</h3>
+        <p>The innermost layer contains the essential business rules, entities, and value objects. This is the most stable part and has no dependencies on outside layers. It encapsulates the core business logic and is independent of external concerns like databases, frameworks, or UI.</p>
+
+        <h3>Application Layer:</h3>
+        <p>This layer contains application-specific business rules and use cases (e.g., commands and queries using the CQRS pattern). It orchestrates domain entities to perform tasks and defines interfaces (ports) that external layers must implement.</p>
+
+        <h3>Infrastructure Layer:</h3>
+        <p>This outermost layer handles all external concerns, such as database interactions (e.g., Entity Framework Core implementations), external APIs, messaging with brokers (like RabbitMQ), and caching. It implements the interfaces defined in the Application Layer.</p>
+
+        <h3>Presentation Layer (API):</h3>
+        <p> For services that expose an HTTP API, this layer (e.g., controllers) handles HTTP requests, maps them to commands/queries, and returns responses.</p>
+
+        <div class="blog-tags">
+            <h4 class="blog-tags-title">Tags:</h4>
+            <div class="tags-list">
+                <span class="tag-item">Microservice Design</span>
+                <span class="tag-item">Clean Architecture</span>
+                <span class="tag-item">Domain-Driven Design</span>
+                <span class="tag-item">Scalable Systems</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer class="footer">
+    <p>&copy; 2024 Mahmoud Sharqawi. All rights reserved.</p>
+</footer>
+
+<script src="JS/main.js"></script>
+</body>
+
+</html>
