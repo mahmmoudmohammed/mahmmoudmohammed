@@ -15,17 +15,10 @@
         <img src="https://img.shields.io/badge/Email-Contact%20me-orange" alt="Contact me"/>
         </a>
     </div>
-    <h1>Contribution Activity</h1>
-    <div align=center>
-    <img src="https://github-readme-stats.vercel.app/api?username=mahmmoudmohammed&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=7" height="185" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmmoudmohammed&layout=compact&title_color=6757e2&text_color=FFFFFF&theme=nightowl" alt="GitHub Most Used Languages" height="185" />
-        <br>
-    </div>
-    <div align=left>
+    <div align=CENTER>
         <br>
         <p>  <strong>🚀 Software Engineer | API & Enterprise Web Solutions</strong>
-            I am a passionate and results-driven software engineer with a <b>Bachelor's degree in Computer Science</b>, specializing in <b>building APIs and enterprise web solutions</b>. With expertise in multiple programming languages and frameworks, I focus on building <b>scalable, high-performance software</b>. So I'm confident that I can make a significant contribution to my team. <br><br>
-            Well-versed in software Technologies including PHP, JavaScript, Laravel, Symfony, nodeJs, ReactJs, Bootstrap, CSS, and HTML, <b>and eager learner of new technologies.</b>
+            I am a passionate and results-driven software engineer with a <b>Bachelor's degree in Computer Science</b>, specializing in <b>building APIs and enterprise web solutions</b>. With expertise in multiple programming languages and frameworks, I focus on building <b>scalable, high-performance software</b>.
         </p>
 </div>
 
