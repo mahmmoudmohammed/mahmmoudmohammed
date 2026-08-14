@@ -31,15 +31,22 @@
 
 ## 🛠 Tech Stack
 <div>
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony"/>
-    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/logo-HTML5-e34f26?style=for-the-badge&logo=html5&amp;label=&amp;logoColor=white"/>
+    <img src="https://img.shields.io/badge/php-white?logo=php"/>
+    <img src="https://img.shields.io/badge/Laravel-white?logo=Laravel"/>
+    <img src="https://img.shields.io/badge/Symfony-black?logo=Symfony"/>
+    <img src="https://img.shields.io/badge/javascript-black?logo=javascript"/>
+    <img src="https://img.shields.io/badge/React-white?logo=React"/>
+    <img src="https://img.shields.io/badge/node.js-white?logo=node.js"/>
+    <img src="https://img.shields.io/badge/Bootstrap-white?logo=Bootstrap"/>
+    <img src="https://img.shields.io/badge/HTML5-white?logo=HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-white?logo=CSS3"/>
+    <img src="https://img.shields.io/badge/docker-white?logo=docker"/>
+    <img src="https://img.shields.io/badge/Kubernetes-white?logo=Kubernetes"/>
+    <img src="https://img.shields.io/badge/jenkins-white?logo=jenkins"/>
+    <img src="https://img.shields.io/badge/grafana-white?logo=grafana"/>
+    <img src="https://img.shields.io/badge/prometheus-white?logo=prometheus"/>
+    <img src="https://img.shields.io/badge/Ansible-black?logo=Ansible"/>
+
 </div>
 
 ## Used Databases</h2>
@@ -48,7 +55,8 @@
     <img src ="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
     <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img src ="https://img.shields.io/badge/redis-BCBDC0.svg?&style=for-the-badge&logo=redis&logoColor=D82C20"/>
+    <img src ="https://img.shields.io/badge/redis-black?&style=for-the-badge&logo=redis&logoColor=D82C20"/>
+    <img src ="https://img.shields.io/badge/Elasticsearch-black?&style=for-the-badge&logo=Elasticsearch&logoColor=#005571"/>
 </div>
 
 </div>
